@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>986758693234-vq6mu38m6f9iirirgoigqj7mcqfintee.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986758693234-vq6mu38m6f9iirirgoigqj7mcqfintee</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAx9Xk7dcCL4oOmABUmBXFBKibf5_vMYPw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986758693234</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>arta.zidele.Firebase-Storage</string>
+	<key>PROJECT_ID</key>
+	<string>roma-bekereja</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roma-bekereja.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986758693234:ios:10d3ec9760091cc6a31deb</string>
+	<key>DATABASE_URL</key>
+	<string>https://roma-bekereja-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
